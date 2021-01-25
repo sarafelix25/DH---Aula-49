@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "709655654809",
+    "project_id": "aula49--firebasestorage",
+    "storage_bucket": "aula49--firebasestorage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709655654809:android:791edf95f2cd6b879aa308",
+        "android_client_info": {
+          "package_name": "com.e.aula49_firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709655654809-kh5bogn7um3glepuu9e1t1kq9cu82bac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY0tFbIxIilnXm8dqcCK-mh64E714MO2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709655654809-kh5bogn7um3glepuu9e1t1kq9cu82bac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
